@@ -1,7 +1,7 @@
 {
   "name": "facebook-unofficial-api",
-  "version": "1.0.1",
-  "description": "Facebook Unofficial API Client",
+  "version": "1.0.2",
+  "description": "This library is written in TypeScript for Node.JS and allows you to perform various operations using the Facebook API.",
   "main": "dist/Facebook.js",
   "repository": {
     "type": "git",
