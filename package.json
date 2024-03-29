@@ -1,11 +1,11 @@
 {
   "name": "facebook-unofficial-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facebook Unofficial API Client",
   "main": "dist/Facebook.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cy4udev/Twitter-Unofficial-API.git"
+    "url": "git+https://github.com/cy4udev/Facebook-Unofficial-API.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
