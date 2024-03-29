@@ -14,13 +14,13 @@ Bu kütüphane, **Facebook** üzerindeki etkileşimlerinizi yönetmeyi kolaylaş
 
 Bu kütüphane, **TypeScript** ile **Node.JS** için yazılmıştır ve [**Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook API")'sini kullanarak çeşitli işlemleri gerçekleştirmenize olanak sağlar. İşte bu kütüphanenin sağladığı bazı özellikler:
 
-- **Giriş Yapma Fonksiyonu**: Kullanıcılar, kütüphaneyi kullanarak Facebook hesaplarına kolayca giriş yapabilirler. Bu, oturum açma sürecini basitleştirir ve daha hızlı bir başlangıç sağlar.
+- **Giriş Yap**: Kullanıcılar, kütüphaneyi kullanarak Facebook hesaplarına kolayca giriş yapabilirler. Bu, oturum açma sürecini basitleştirir ve daha hızlı bir başlangıç sağlar.
 
-- **Sayfa Beğenme**: İşletmeler veya kullanıcılar, sayfalarını büyütmek ve daha fazla takipçi çekmek için bu fonksiyonu kullanabilirler. Tek bir işlev çağrısı ile sayfa beğenme işlemi gerçekleştirilebilir.
+- **Sayfa Beğen**: İşletmeler veya kullanıcılar, sayfalarını büyütmek ve daha fazla takipçi çekmek için bu fonksiyonu kullanabilirler. Tek bir işlev çağrısı ile sayfa beğenme işlemi gerçekleştirilebilir.
 
-- **Durum Beğenme**: Kullanıcılar, diğer kullanıcıların durumlarını beğenebilirler. Bu, etkileşimi artırmanın ve kullanıcılar arasında bağlantı kurmanın etkili bir yoludur.
+- **Durum Beğen**: Kullanıcılar, diğer kullanıcıların durumlarını beğenebilirler. Bu, etkileşimi artırmanın ve kullanıcılar arasında bağlantı kurmanın etkili bir yoludur.
 
-- **Gönderiye Yorum Yapma**: İşletmeler veya bireyler, yayınladıkları gönderilere kullanıcıların yorum yapmasını sağlayabilirler. Bu, daha fazla katılım elde etmenin ve içeriğin daha geniş bir kitleye ulaşmasının bir yoludur.
+- **Gönderiye Yorum Yap**: İşletmeler veya bireyler, yayınladıkları gönderilere kullanıcıların yorum yapmasını sağlayabilirler. Bu, daha fazla katılım elde etmenin ve içeriğin daha geniş bir kitleye ulaşmasının bir yoludur.
 
 Bu kütüphane, **Node.js**'nin gücünü kullanarak **Facebook** platformunda etkili bir şekilde faaliyet göstermenizi sağlar. Ayrıca, kullanımı kolaydır ve [**Facebook Unofficial API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook Unofficial API") çağrılarını yönetmek için gereken karmaşıklığı azaltır.
 
