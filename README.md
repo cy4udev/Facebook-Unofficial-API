@@ -92,8 +92,6 @@ console.log(response);
 console.log(err);
 });
 ```
-
-
 #### Send Comment 
 
 ```js
