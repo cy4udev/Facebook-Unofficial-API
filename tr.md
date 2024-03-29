@@ -79,7 +79,7 @@ console.log(err);
 }checkUserDetails()
 ```
 
-#### Gönderi & Sayfa Beğen
+#### Gönderi & Sayfa Beğen
 
 ```js
 const Token = 'Facebook Token -> Login işleminden alabilirsiniz';
@@ -94,7 +94,7 @@ console.log(err);
 });
 ```
 
-#### Yorum Gönder
+#### Yorum Gönder
 
 ```js
 const Token = 'Facebook Token -> Login işleminden alabilirsiniz';
