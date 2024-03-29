@@ -1,0 +1,30 @@
+{
+  "name": "facebook-unofficial-api",
+  "version": "1.0.1",
+  "description": "Facebook Unofficial API Client",
+  "main": "dist/*.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cy4udev/Twitter-Unofficial-API.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Facebook",
+    "Facebook API",
+    "Facebook Unofficial API",
+    "Facebook Graph API",
+    "Facebook Twitter"
+  ],
+  "author": "c4udev",
+  "license": "c4udev",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^7.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
