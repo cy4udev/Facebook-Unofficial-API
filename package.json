@@ -1,8 +1,8 @@
 {
   "name": "facebook-unofficial-api",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Facebook Unofficial API Client",
-  "main": "dist/*.js",
+  "main": "dist/Facebook.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cy4udev/Twitter-Unofficial-API.git"
