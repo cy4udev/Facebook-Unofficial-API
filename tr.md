@@ -1,18 +1,18 @@
 # Facebook Unofficial API
 
-**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Facebook-Unofficial-API/tr "Turkish") [🇺🇸](https://cy4u.dev/Facebook-Unofficial-API/ "English") 
+**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Turkish") [🇺🇸](https://cy4u.dev/Facebook-Unofficial-API/ "English") 
 
-[**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook"), milyarlarca kullanıcısıyla dünyanın en popüler sosyal medya platformlarından biri olarak ön plana çıkıyor. 
+[**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook"), milyarlarca kullanıcısıyla dünyanın en popüler sosyal medya platformlarından biri olarak ön plana çıkıyor. 
 
-İşletmeler, markalar ve bireyler için [**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook"), geniş kitlelere erişim sağlama, marka bilinirliğini artırma ve hedef kitleyle etkileşime geçme fırsatları sunuyor. Ancak, bu etkileşimleri artırmak ve yönetmek bazen karmaşık olabilir.
+İşletmeler, markalar ve bireyler için [**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook"), geniş kitlelere erişim sağlama, marka bilinirliğini artırma ve hedef kitleyle etkileşime geçme fırsatları sunuyor. Ancak, bu etkileşimleri artırmak ve yönetmek bazen karmaşık olabilir.
 
-İşte bu noktada, **TypeScript** ile geliştirdiğimiz yeni [**Unofficial Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Unofficial Facebook API") devreye giriyor.
+İşte bu noktada, **TypeScript** ile geliştirdiğimiz yeni [**Unofficial Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Unofficial Facebook API") devreye giriyor.
 
 Bu kütüphane, **Facebook** üzerindeki etkileşimlerinizi yönetmeyi kolaylaştırıyor ve işletmelerin veya geliştiricilerin Facebook platformunda daha etkili bir şekilde faaliyet göstermelerine olanak tanıyor.
 
 ## Facebook Kütüphanesine Giriş
 
-Bu kütüphane, **TypeScript** ile **Node.JS** için yazılmıştır ve [**Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook API")'sini kullanarak çeşitli işlemleri gerçekleştirmenize olanak sağlar. İşte bu kütüphanenin sağladığı bazı özellikler:
+Bu kütüphane, **TypeScript** ile **Node.JS** için yazılmıştır ve [**Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook API")'sini kullanarak çeşitli işlemleri gerçekleştirmenize olanak sağlar. İşte bu kütüphanenin sağladığı bazı özellikler:
 
 - **Giriş Yap**: Kullanıcılar, kütüphaneyi kullanarak Facebook hesaplarına kolayca giriş yapabilirler. Bu, oturum açma sürecini basitleştirir ve daha hızlı bir başlangıç sağlar.
 
@@ -22,7 +22,7 @@ Bu kütüphane, **TypeScript** ile **Node.JS** için yazılmıştır ve [**Faceb
 
 - **Gönderiye Yorum Yap**: İşletmeler veya bireyler, yayınladıkları gönderilere kullanıcıların yorum yapmasını sağlayabilirler. Bu, daha fazla katılım elde etmenin ve içeriğin daha geniş bir kitleye ulaşmasının bir yoludur.
 
-Bu kütüphane, **Node.js**'nin gücünü kullanarak **Facebook** platformunda etkili bir şekilde faaliyet göstermenizi sağlar. Ayrıca, kullanımı kolaydır ve [**Facebook Unofficial API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook Unofficial API") çağrılarını yönetmek için gereken karmaşıklığı azaltır.
+Bu kütüphane, **Node.js**'nin gücünü kullanarak **Facebook** platformunda etkili bir şekilde faaliyet göstermenizi sağlar. Ayrıca, kullanımı kolaydır ve [**Facebook Unofficial API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook Unofficial API") çağrılarını yönetmek için gereken karmaşıklığı azaltır.
 
 ### Başlarken
 
@@ -113,7 +113,7 @@ console.log(err);
 
 #### Anahtar Kelimeler
 
-[**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook"), [**Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook API"), [**Facebook Unofficial API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Facebook Unofficial API"), [**Unofficial Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr "Unofficial Facebook API"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer")
+[**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook"), [**Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook API"), [**Facebook Unofficial API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Facebook Unofficial API"), [**Unofficial Facebook API**](https://cy4u.dev/Facebook-Unofficial-API/tr.html "Unofficial Facebook API"), [**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer")
 
 #### Sponsorluk & Bağış
 
