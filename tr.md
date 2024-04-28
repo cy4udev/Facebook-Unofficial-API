@@ -1,6 +1,6 @@
 # Facebook Unofficial API
 
-**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Facebook-Unofficial-API/ "Turkish") [🇺🇸](https://cy4u.dev/Facebook-Unofficial-API/ "English") 
+**Mevcut Diller**: [🇹🇷](https://cy4u.dev/Facebook-Unofficial-API/tr "Turkish") [🇺🇸](https://cy4u.dev/Facebook-Unofficial-API/ "English") 
 
 [**Facebook**](https://cy4u.dev/Facebook-Unofficial-API/ "Facebook"), milyarlarca kullanıcısıyla dünyanın en popüler sosyal medya platformlarından biri olarak ön plana çıkıyor. 
 
